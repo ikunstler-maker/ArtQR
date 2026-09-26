@@ -1,0 +1,6 @@
+{
+  "name": "QR Art Studio - Клієнтський генератор естетичних QR-кодів",
+  "description": "Потужний 100% клієнтський генератор та стилізатор QR-кодів з миттєвим прев'ю, перевіркою контрастності, високою роздільною здатністю та шаблонами карток.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
